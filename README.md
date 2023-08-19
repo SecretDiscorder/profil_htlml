@@ -1,4 +1,4 @@
 # profil_html
 
 
-prof.bimakhzdev.my.id
+http://prof.bimakhzdev.my.id
