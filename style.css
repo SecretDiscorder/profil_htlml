@@ -1,0 +1,57 @@
+p{
+	color: white;
+	text-align: justify;
+}
+img{
+	border-radius: 40px;
+	
+}
+
+body{
+	background-image: url("wallpaper.jpg");
+	background-position: absolute;
+	background-height: auto;
+	background-repeat: no-repeat;
+}
+h1, p, h2, b{
+	opacity: 100%;
+}
+table, th, td {
+background-color: cyan;
+border: 5px solid;
+border-radius: 20px;
+border-color: cyan; 
+text-align: left;
+}
+ul, li{
+
+	border-radius: 20px;
+	background-color: white;
+}
+.card-view3{
+	align:0px auto 0px auto;
+	border-radius: 10px;
+	opacity: 1;
+	text-align: center;
+	background-color: gray;
+
+}
+.card_view2{
+border-radius: 30px;
+background-color: magenta;
+opacity: 0.5;
+width: 50%;
+padding: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+.card-view{
+	align:0px auto 0px auto;
+	border-radius: 30px;
+	opacity: 1;
+	text-align: center;
+	background: #8B008B;
+
+}
